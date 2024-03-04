@@ -85,6 +85,6 @@ export default function NavBar({quantity = 0}) {
   );
 }
 
-NavBar.propTyes ={
+NavBar.propTypes ={
   quantity: PropTypes.number
 };
